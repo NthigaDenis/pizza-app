@@ -1,0 +1,16 @@
+  PROJRCT NAME: NTHIGA PIZZA HUB
+
+  The application is built using REACT 
+  
+  on the narbar there is a home page , menu list, and contact links which you can route within.
+
+  live link ; http://172.20.252.124:3000
+
+  in the application you can select the pizza you want by clicking the Add cart buttom
+
+  the selected pizza is added to the shoping list and can be deleted from the cart by delete button
+
+  the side bar has navagation controls to the menu and contacts section
+
+  
+   

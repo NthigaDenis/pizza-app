@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.46b56a9c.js",
+    "static/js/377.be59e216.chunk.js": "/static/js/377.be59e216.chunk.js",
+    "static/media/featured3.jpg": "/static/media/featured3.66d68644270582e9ce8d.jpg",
+    "static/media/product-1.jpg": "/static/media/product-1.0c5d4c2fb7a5a16742a8.jpg",
+    "static/media/pizza-3.jpg": "/static/media/pizza-3.10459c12b4202166dcfe.jpg",
+    "static/media/sweet3.jpg": "/static/media/sweet3.84cd0fbd821efda8b2c8.jpg",
+    "static/media/sweet-3.jpg": "/static/media/sweet-3.f3619b23a4ba107a3bbf.jpg",
+    "static/media/product-2.jpg": "/static/media/product-2.762ab1d6c14f30c4fba5.jpg",
+    "static/media/product-3.jpg": "/static/media/product-3.86c34286e900d5543cc4.jpg",
+    "static/media/sweet-2.jpg": "/static/media/sweet-2.2ec4f00626a7a4e783e6.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.46b56a9c.js.map": "/static/js/main.46b56a9c.js.map",
+    "377.be59e216.chunk.js.map": "/static/js/377.be59e216.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.46b56a9c.js"
+  ]
+}
